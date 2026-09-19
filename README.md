@@ -1,4 +1,4 @@
-# Olá, eu sou Leon Daniel 👋
+# Olá, eu sou Leon Daniel
 
 Desenvolvedor Front-end em formação e graduando em Gestão da Informação pela Universidade Federal de Uberlândia, com especialização em Data Science. Desenvolvo produtos digitais que unem experiência do usuário, dados e automação.
 
