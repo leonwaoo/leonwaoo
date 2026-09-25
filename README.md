@@ -31,17 +31,14 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 
 ## <img src="assets/icons/work.svg" width="26" height="26" alt=""/> Experiências
 
-- **Integração de sistemas (PgSoftware):** suporte técnico avançado, garantia do funcionamento das integrações e desenvolvimento de consultas SQL
-- **Analista financeiro (Enactus):** gestão do ciclo financeiro e do fluxo de caixa, criação de um sistema de projeção de caixa e reorganização das planilhas da equipe
-- **Analista técnico (IPDSA, gestão pública):** organização de dados, registros de qualidade e documentação técnica para auditorias internas
-- **Liga Acadêmica de Análise de Dados:** projetos de extensão em análise de dados
-- **Embaixador Estudantil Google:** criação de conteúdo e desafios práticos com IA generativa
+Atuação com suporte técnico avançado, integração entre sistemas e desenvolvimento de consultas SQL. Experiência em gestão financeira, controle de fluxo de caixa, desenvolvimento de sistema de projeção financeira e organização de dados e planilhas. Desenvolvimento de projetos de análise de dados, com tratamento, interpretação e visualização de informações. Experiência com inteligência artificial generativa, incluindo criação de conteúdos e desenvolvimento de desafios práticos.
 
 ## <img src="assets/icons/workspace_premium.svg" width="26" height="26" alt=""/> Certificações
 
-- Google Data Analytics · Coursera
+- Google Data Analytics · Coursera/Google
+- Power BI Data Analyst (PL-300) · Microsoft
 - Python para Ciência de Dados · One Tech Foundation
-- Power BI · Microsoft Learn
+- SQL for Data Science · IBM
 
 <p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
@@ -153,8 +150,6 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 <p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/forum.svg" width="26" height="26" alt=""/> Vamos conversar?
-
-Aberto a oportunidades, colaborações e projetos que conectem **tecnologia, dados e experiência digital**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leon-daniel-correa/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-linkedin.svg?v=roxo" height="52" alt="LinkedIn"/></a>
