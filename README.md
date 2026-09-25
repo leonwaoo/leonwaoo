@@ -3,21 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1033,55:5b21b6,100:a855f7&text=Leon%20Daniel%20Corr%C3%AAa&fontColor=f5f3ff&fontSize=46&fontAlignY=36&desc=Dados%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&descSize=16&descAlignY=58&animation=fadeIn" alt="Banner Leon Daniel Corrêa" width="100%"/>
 </p>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ===================== CARTÃO ===================== -->
 <p align="center">
-  <a href="https://github.com/leonwaoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Transformando+dados+em+decis%C3%B5es;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+React;Produtos+digitais+para+problemas+reais;Embaixador+Estudantil+Google" alt="Typing SVG"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/intro.svg" width="100%" alt="Cartão de apresentação: Leon Daniel Corrêa, Dados · IA · Automação"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leon-daniel-correa/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn"/></a>
-  <a href="https://curriculo-snowy-nine.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=c084fc" alt="Portfólio"/></a>
-  <a href="mailto:leondc789@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="E-mail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=leonwaoo&style=for-the-badge&color=7c3aed&label=VISITAS" alt="Visitas"/>
-</p>
-
----
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/person.svg" width="26" height="26" alt=""/> Sobre mim
 
@@ -25,13 +16,18 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 
 ## <img src="assets/icons/psychology.svg" width="26" height="26" alt=""/> O que eu faço
 
-| Área | Como aplico |
-|---|---|
-| **Análise e visualização de dados** | Limpeza, exploração e dashboards com Python, SQL, Power BI e Tableau |
-| **Inteligência artificial** | IA generativa aplicada a produtos e fluxos de trabalho, com Gemini e engenharia de prompts |
-| **Automação e integração de sistemas** | Consultas SQL, integração entre sistemas e automação de rotinas |
-| **Finanças e fluxo de caixa** | Projeção de caixa, controle financeiro e padronização de planilhas |
-| **Produtos digitais** | Aplicações web e mobile, do problema ao deploy |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-dados.svg" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-ia.svg" width="49%" alt=""/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-automacao.svg" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-financas.svg" width="49%" alt=""/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-produtos.svg" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-organizacao.svg" width="49%" alt=""/>
+</p>
 
 ## <img src="assets/icons/work.svg" width="26" height="26" alt=""/> Experiências
 
@@ -47,7 +43,7 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 - Python para Ciência de Dados · One Tech Foundation
 - Power BI · Microsoft Learn
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/code.svg" width="26" height="26" alt=""/> Tecnologias
 
@@ -69,7 +65,7 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
   <img src="https://img.shields.io/badge/Flutter-1e1033?style=for-the-badge&logo=flutter&logoColor=c084fc" alt="Flutter"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/rocket_launch.svg" width="26" height="26" alt=""/> Projetos
 
@@ -127,7 +123,7 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/monitoring.svg" width="26" height="26" alt=""/> GitHub em números
 
@@ -154,16 +150,20 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
   </picture>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/forum.svg" width="26" height="26" alt=""/> Vamos conversar?
 
 Aberto a oportunidades, colaborações e projetos que conectem **tecnologia, dados e experiência digital**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leon-daniel-correa/"><img src="https://img.shields.io/badge/-Leon%20Daniel%20Corr%C3%AAa-7c3aed?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:leondc789@gmail.com"><img src="https://img.shields.io/badge/-leondc789@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
-  <a href="https://curriculo-snowy-nine.vercel.app/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/leon-daniel-correa/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-linkedin.svg" height="52" alt="LinkedIn"/></a>
+  <a href="mailto:leondc789@gmail.com"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-email.svg" height="52" alt="E-mail"/></a>
+  <a href="https://curriculo-snowy-nine.vercel.app/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-portfolio.svg" height="52" alt="Portfólio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonwaoo&style=flat-square&color=7c3aed&label=visitas" alt="Visitas"/>
 </p>
 
 <!-- ===================== RODAPÉ ===================== -->

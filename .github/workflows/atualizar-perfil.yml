@@ -24,6 +24,9 @@ jobs:
           # Opcional: crie o secret PROFILE_TOKEN para contar também contribuições privadas
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
+      - name: Gerar cartão, skills, botões e divisores
+        run: python scripts/gerar_assets.py
+
       - name: Gerar snake de contribuições
         uses: Platane/snk@v3
         with:
