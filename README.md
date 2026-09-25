@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1033,55:5b21b6,100:a855f7&text=Leon%20Daniel%20Corr%C3%AAa&fontColor=f5f3ff&fontSize=46&fontAlignY=36&desc=Dados%20%C2%B7%20Desenvolvimento%20Web%20%C2%B7%20UFU&descSize=16&descAlignY=58&animation=fadeIn" alt="Banner Leon Daniel Corrêa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1033,55:5b21b6,100:a855f7&text=Leon%20Daniel%20Corr%C3%AAa&fontColor=f5f3ff&fontSize=46&fontAlignY=36&desc=Dados%20%C2%B7%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o&descSize=16&descAlignY=58&animation=fadeIn" alt="Banner Leon Daniel Corrêa" width="100%"/>
 </p>
 
 <!-- ===================== TYPING ===================== -->
@@ -19,37 +19,37 @@
 
 ---
 
-## 🟣 Sobre mim
+## <img src="assets/icons/person.svg" width="26" height="26" alt=""/> Sobre mim
 
-Estudo **Gestão da Informação na Universidade Federal de Uberlândia** (2025 – 2029) com especialização em Data Science. Desenvolvo produtos digitais que unem experiência do usuário, dados e automação — e gosto do momento em que uma planilha bagunçada vira uma resposta clara para quem precisa decidir.
+Trabalho na interseção entre **dados, inteligência artificial e automação**. Gosto de pegar informação espalhada, organizar, analisar e transformar em algo que ajude alguém a decidir, seja um dashboard, uma planilha bem estruturada ou um produto digital que resolve um problema real.
 
-- 💼 **Estagiário na PgSoftware** (jan – abr/2026): suporte técnico avançado, integração de sistemas e consultas em **SQL**
-- 💰 **Analista Financeiro na Enactus UFU** (jun/2025 – jun/2026): cuidei do ciclo financeiro e do fluxo de caixa, criei um **sistema de projeção de caixa** e reorganizei o Excel da equipe para todo mundo usar
-- 📊 **Liga Acadêmica de Análise de Dados** (projeto de extensão, set/2025 – mar/2026)
-- 🏛️ **Analista Técnico no IPDSA** (2023 – 2024): organização de dados, registros de qualidade e documentação técnica para auditorias
-- 🌐 **Embaixador Estudantil Google**, explorando IA generativa com o Gemini
-- 📍 Uberlândia, MG
+## <img src="assets/icons/psychology.svg" width="26" height="26" alt=""/> O que eu faço
 
-<details>
-<summary><b>🎓 Formação e certificações</b></summary>
-<br>
-
-| Formação | Instituição |
+| Área | Como aplico |
 |---|---|
-| Bacharelado em Gestão da Informação | Universidade Federal de Uberlândia |
-| Especialização em Data Science | One Tech Foundation |
+| **Análise e visualização de dados** | Limpeza, exploração e dashboards com Python, SQL, Power BI e Tableau |
+| **Inteligência artificial** | IA generativa aplicada a produtos e fluxos de trabalho, com Gemini e engenharia de prompts |
+| **Automação e integração de sistemas** | Consultas SQL, integração entre sistemas e automação de rotinas |
+| **Finanças e fluxo de caixa** | Projeção de caixa, controle financeiro e padronização de planilhas |
+| **Produtos digitais** | Aplicações web e mobile, do problema ao deploy |
 
-| Certificação | Emissor |
-|---|---|
-| Google Data Analytics | Coursera |
-| Python para Ciência de Dados | One Tech Foundation |
-| Power BI | Microsoft Learn |
+## <img src="assets/icons/work.svg" width="26" height="26" alt=""/> Experiências
 
-</details>
+- **Integração de sistemas (PgSoftware):** suporte técnico avançado, garantia do funcionamento das integrações e desenvolvimento de consultas SQL
+- **Analista financeiro (Enactus):** gestão do ciclo financeiro e do fluxo de caixa, criação de um sistema de projeção de caixa e reorganização das planilhas da equipe
+- **Analista técnico (IPDSA, gestão pública):** organização de dados, registros de qualidade e documentação técnica para auditorias internas
+- **Liga Acadêmica de Análise de Dados:** projetos de extensão em análise de dados
+- **Embaixador Estudantil Google:** criação de conteúdo e desafios práticos com IA generativa
+
+## <img src="assets/icons/workspace_premium.svg" width="26" height="26" alt=""/> Certificações
+
+- Google Data Analytics · Coursera
+- Python para Ciência de Dados · One Tech Foundation
+- Power BI · Microsoft Learn
 
 ---
 
-## 🛠️ Tecnologias
+## <img src="assets/icons/code.svg" width="26" height="26" alt=""/> Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1e1033?style=for-the-badge&logo=python&logoColor=c084fc" alt="Python"/>
@@ -71,50 +71,56 @@ Estudo **Gestão da Informação na Universidade Federal de Uberlândia** (2025 
 
 ---
 
-## 🚀 Projetos
+## <img src="assets/icons/rocket_launch.svg" width="26" height="26" alt=""/> Projetos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data-Sense</h3>
+      <img src="assets/projects/data-sense.svg" width="48" height="48" alt=""/>
+      <h3>Data-Sense</h3>
       <p>Plataforma que transforma arquivos tabulares em insights, gráficos e auditorias de qualidade.</p>
       <p><img src="https://img.shields.io/badge/Python-3b1d6e?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/SQL-3b1d6e?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/IA-3b1d6e?style=flat-square" alt="IA"/></p>
       <a href="https://github.com/leonwaoo/Data-Sense"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
       <a href="https://data-sense-three.vercel.app"><img src="https://img.shields.io/badge/Ao%20vivo-%E2%86%92-a855f7?style=for-the-badge&logo=vercel" alt="Ao vivo"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 Confere Agora</h3>
+      <img src="assets/projects/confere-agora.svg" width="48" height="48" alt=""/>
+      <h3>Confere-Agora</h3>
       <p>Aplicação web que analisa sinais de risco de desinformação em textos, links e imagens.</p>
       <p><img src="https://img.shields.io/badge/React-3b1d6e?style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/Vite-3b1d6e?style=flat-square" alt="Vite"/> <img src="https://img.shields.io/badge/JavaScript-3b1d6e?style=flat-square" alt="JavaScript"/></p>
-      <a href="https://github.com/leonwaoo/confere-agora"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
+      <a href="https://github.com/leonwaoo/Confere-Agora"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 OrdemPro</h3>
+      <img src="assets/projects/ordem-pro.svg" width="48" height="48" alt=""/>
+      <h3>Ordem-Pro</h3>
       <p>App Android offline para criar, organizar e compartilhar ordens de serviço em PDF.</p>
       <p><img src="https://img.shields.io/badge/Kotlin-3b1d6e?style=flat-square" alt="Kotlin"/> <img src="https://img.shields.io/badge/Android-3b1d6e?style=flat-square" alt="Android"/></p>
-      <a href="https://github.com/leonwaoo/ordempro"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
+      <a href="https://github.com/leonwaoo/Ordem-Pro"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧮 Calcula CLT</h3>
+      <img src="assets/projects/calcula-clt.svg" width="48" height="48" alt=""/>
+      <h3>Calcula-CLT</h3>
       <p>Simulador de verbas rescisórias CLT feito em Flutter.</p>
       <p><img src="https://img.shields.io/badge/Flutter-3b1d6e?style=flat-square" alt="Flutter"/> <img src="https://img.shields.io/badge/Dart-3b1d6e?style=flat-square" alt="Dart"/></p>
-      <a href="https://github.com/leonwaoo/calcula-clt"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
+      <a href="https://github.com/leonwaoo/Calcula-CLT"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
       <a href="https://calcula-clt-sable.vercel.app"><img src="https://img.shields.io/badge/Ao%20vivo-%E2%86%92-a855f7?style=for-the-badge&logo=vercel" alt="Ao vivo"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌿 Site Aroeiras</h3>
+      <img src="assets/projects/site-aroeiras.svg" width="48" height="48" alt=""/>
+      <h3>Site-Aroeiras</h3>
       <p>Website institucional com catálogo, galeria e canais de contato.</p>
       <p><img src="https://img.shields.io/badge/HTML-3b1d6e?style=flat-square" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-3b1d6e?style=flat-square" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-3b1d6e?style=flat-square" alt="JavaScript"/></p>
       <a href="https://github.com/leonwaoo/Site-Aroeiras"><img src="https://img.shields.io/badge/C%C3%B3digo-%E2%86%92-7c3aed?style=for-the-badge&logo=github" alt="Código"/></a>
       <a href="https://www.aroeirasmoda.com.br/"><img src="https://img.shields.io/badge/Ao%20vivo-%E2%86%92-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ao vivo"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Portfólio</h3>
-      <p>Meu currículo em formato de site: experiências, formação e certificações em um só lugar.</p>
+      <img src="assets/projects/portfolio.svg" width="48" height="48" alt=""/>
+      <h3>Portfólio</h3>
+      <p>Meu currículo em formato de site: experiências, projetos e certificações em um só lugar.</p>
       <p><img src="https://img.shields.io/badge/HTML-3b1d6e?style=flat-square" alt="HTML"/> <img src="https://img.shields.io/badge/Vercel-3b1d6e?style=flat-square" alt="Vercel"/></p>
       <a href="https://curriculo-snowy-nine.vercel.app/"><img src="https://img.shields.io/badge/Ao%20vivo-%E2%86%92-a855f7?style=for-the-badge&logo=vercel" alt="Ao vivo"/></a>
     </td>
@@ -123,11 +129,11 @@ Estudo **Gestão da Informação na Universidade Federal de Uberlândia** (2025 
 
 ---
 
-## 📈 GitHub em números
+## <img src="assets/icons/monitoring.svg" width="26" height="26" alt=""/> GitHub em números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonwaoo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=a855f7&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonwaoo&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff&locale=pt-br" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/stats.svg" alt="Estatísticas no GitHub" height="195"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/linguagens.svg" alt="Linguagens mais usadas" height="195"/>
 </p>
 
 <p align="center">
@@ -135,16 +141,10 @@ Estudo **Gestão da Informação na Universidade Federal de Uberlândia** (2025 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonwaoo&bg_color=0d1117&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&title_color=c084fc&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/atividade.svg" alt="Atividade de contribuições" width="100%"/>
 </p>
 
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonwaoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</p>
-
-## 🐍 Contribuições
+## <img src="assets/icons/timeline.svg" width="26" height="26" alt=""/> Contribuições
 
 <p align="center">
   <picture>
@@ -156,7 +156,7 @@ Estudo **Gestão da Informação na Universidade Federal de Uberlândia** (2025 
 
 ---
 
-## 🤝 Vamos conversar?
+## <img src="assets/icons/forum.svg" width="26" height="26" alt=""/> Vamos conversar?
 
 Aberto a oportunidades, colaborações e projetos que conectem **tecnologia, dados e experiência digital**.
 
