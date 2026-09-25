@@ -5,10 +5,10 @@
 
 <!-- ===================== CARTÃO ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/intro.svg" width="100%" alt="Cartão de apresentação: Leon Daniel Corrêa, Dados · IA · Automação"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/intro.svg?v=roxo" width="100%" alt="Cartão de apresentação: Leon Daniel Corrêa, Dados · IA · Automação"/>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/person.svg" width="26" height="26" alt=""/> Sobre mim
 
@@ -17,16 +17,16 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 ## <img src="assets/icons/psychology.svg" width="26" height="26" alt=""/> O que eu faço
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-dados.svg" width="49%" alt=""/>
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-ia.svg" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-dados.svg?v=roxo" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-ia.svg?v=roxo" width="49%" alt=""/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-automacao.svg" width="49%" alt=""/>
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-financas.svg" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-automacao.svg?v=roxo" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-financas.svg?v=roxo" width="49%" alt=""/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-produtos.svg" width="49%" alt=""/>
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-organizacao.svg" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-produtos.svg?v=roxo" width="49%" alt=""/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/skill-organizacao.svg?v=roxo" width="49%" alt=""/>
 </p>
 
 ## <img src="assets/icons/work.svg" width="26" height="26" alt=""/> Experiências
@@ -43,7 +43,7 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 - Python para Ciência de Dados · One Tech Foundation
 - Power BI · Microsoft Learn
 
-<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/code.svg" width="26" height="26" alt=""/> Tecnologias
 
@@ -65,7 +65,7 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
   <img src="https://img.shields.io/badge/Flutter-1e1033?style=for-the-badge&logo=flutter&logoColor=c084fc" alt="Flutter"/>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/rocket_launch.svg" width="26" height="26" alt=""/> Projetos
 
@@ -123,13 +123,13 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/monitoring.svg" width="26" height="26" alt=""/> GitHub em números
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/stats.svg" alt="Estatísticas no GitHub" height="195"/>
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/linguagens.svg" alt="Linguagens mais usadas" height="195"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/stats.svg?v=roxo" alt="Estatísticas no GitHub" height="195"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/linguagens.svg?v=roxo" alt="Linguagens mais usadas" height="195"/>
 </p>
 
 <p align="center">
@@ -137,29 +137,29 @@ Trabalho na interseção entre **dados, inteligência artificial e automação**
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/atividade.svg" alt="Atividade de contribuições" width="100%"/>
+  <img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/atividade.svg?v=roxo" alt="Atividade de contribuições" width="100%"/>
 </p>
 
 ## <img src="assets/icons/timeline.svg" width="26" height="26" alt=""/> Contribuições
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/github-snake-dark.svg?v=roxo"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/github-snake.svg?v=roxo"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/github-snake-dark.svg?v=roxo"/>
   </picture>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg" width="100%" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/divisor.svg?v=roxo" width="100%" alt=""/></p>
 
 ## <img src="assets/icons/forum.svg" width="26" height="26" alt=""/> Vamos conversar?
 
 Aberto a oportunidades, colaborações e projetos que conectem **tecnologia, dados e experiência digital**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leon-daniel-correa/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-linkedin.svg" height="52" alt="LinkedIn"/></a>
-  <a href="mailto:leondc789@gmail.com"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-email.svg" height="52" alt="E-mail"/></a>
-  <a href="https://curriculo-snowy-nine.vercel.app/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-portfolio.svg" height="52" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/leon-daniel-correa/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-linkedin.svg?v=roxo" height="52" alt="LinkedIn"/></a>
+  <a href="mailto:leondc789@gmail.com"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-email.svg?v=roxo" height="52" alt="E-mail"/></a>
+  <a href="https://curriculo-snowy-nine.vercel.app/"><img src="https://raw.githubusercontent.com/leonwaoo/leonwaoo/output/btn-portfolio.svg?v=roxo" height="52" alt="Portfólio"/></a>
 </p>
 
 <p align="center">
