@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="verified_user"><style></style><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#059669"/><stop offset="1" stop-color="#052e24"/></linearGradient>
+<radialGradient id="luz" cx=".25" cy=".2" r=".8"><stop stop-color="#34d399" stop-opacity=".55"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="6" y="6" width="60" height="60" rx="18" fill="url(#g)"/>
+<rect x="6" y="6" width="60" height="60" rx="18" fill="url(#luz)"/>
+<rect x="6" y="6" width="60" height="60" rx="18" fill="none" stroke="#10b981" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="6" y="6" width="60" height="60" rx="18" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="36 204">
+<animate attributeName="stroke-dashoffset" values="0;-240" dur="4s" repeatCount="indefinite"/></rect>
+<g transform="translate(19 19) scale(0.03542) translate(0 960)" fill="#ecfdf5"><path d="m438-452-56-56q-12-12-28-12t-28 12q-12 12-12 28.5t12 28.5l84 85q12 12 28 12t28-12l170-170q12-12 12-28.5T636-593q-12-12-28.5-12T579-593L438-452Zm29 367q-6-1-12-3-135-45-215-166.5T160-516v-189q0-25 14.5-45t37.5-29l240-90q14-5 28-5t28 5l240 90q23 9 37.5 29t14.5 45v189q0 140-80 261.5T505-88q-6 2-12 3t-13 1q-7 0-13-1Z"/></g>
+<ellipse cx="30" cy="16" rx="18" ry="6" fill="#fff" opacity=".12"/></svg>
